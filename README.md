@@ -1,16 +1,8 @@
-# quizzler_flutter
+# Quizzler App Using Flutter
 
-A new Flutter application.
+**This App is a True / False Quiz Application and at the end of the quiz it will show your Score in this Quiz.**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Show Part 1 from the App:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![49cmtq](https://user-images.githubusercontent.com/50073317/88447131-3b7cad00-ce30-11ea-827f-6fc4a1c07b7b.gif)
